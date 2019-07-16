@@ -7,7 +7,7 @@
 ### Link to Deployed link 
 > [Deployed Link](http://lab36pipelineapp-env.mbzn3tnpzp.us-west-2.elasticbeanstalk.com/)
 
-> It is sucessfully deployed but currently having internal application issuses 
+* NOTE: It is sucessfully deployed but currently having internal application issuses 
 
 ### Steps:
 * Clone the repository from class repository
