@@ -4,6 +4,11 @@
 
 ### Deploy Java Spring BootApp
 
+### Link to Deployed link 
+> [Deployed Link](http://lab36pipelineapp-env.mbzn3tnpzp.us-west-2.elasticbeanstalk.com/)
+
+> It is sucessfully deployed but currently having internal application issuses 
+
 ### Steps:
 * Clone the repository from class repository
 * Go to AWS Console
@@ -34,5 +39,8 @@ chmod a+x ./gradlew
 "
 * Check the .gitignore and make sure to remove "/build/"
 
+## Screenshot of a “green” pipeline
+![Deploy Sucess](./assests/success.png)
 
-
+## Screenshot of eb
+![Eb Sucess](./assests/EB.png)
