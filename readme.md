@@ -40,7 +40,7 @@ chmod a+x ./gradlew
 * Check the .gitignore and make sure to remove "/build/"
 
 ## Screenshot of a “green” pipeline
-![Deploy Sucess](./assests/success.png)
+![Deploy Sucess](./assets/success.png)
 
 ## Screenshot of eb
-![Eb Sucess](./assests/EB.png)
+![Eb Sucess](./assets/EB.png)
